@@ -1,0 +1,39 @@
+
+  body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(212, 212, 212);
+  }
+
+  #fonts{
+    display: inline;
+    margin-left: 38%;
+  }
+
+  #font{
+    display: block; 
+    margin-left: 38%;
+  }
+
+  #colors{
+    margin-left: 54%;
+    margin-top: -2.8%;
+    width: 100px;
+  }
+
+  #button{
+    margin-top: 15px;
+    margin-left: 47.4%;
+  }
+
+  #hiddenBox{
+      display: none;
+  }
+
+  textarea{
+    resize: none;
+    width: 380px;
+    height: 200px;
+    display: block;
+    margin-top: 15px;
+    margin-left: 36%;
+  }
